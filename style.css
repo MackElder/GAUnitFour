@@ -12,6 +12,14 @@ hr {
 	border-color: #33CCFF;
 	margin: 0;
 	width: 75px;
+	
+h1 {
+	font-size: 24px;
+	color:#33CC33;
+	font-weight: 600;
+	line-height: 42px;
+	text-align: center;
+}
 
 a {
 	background: url("http://videomultiverse.org/Images/Restaurant/Line.jpg");
